@@ -1,0 +1,15 @@
+com\unir\payments\services\PaymentService.class
+com\unir\payments\controllers\PaymentController.class
+com\unir\payments\repositories\entities\PaymentEntity$PaymentEntityBuilder.class
+com\unir\payments\dtos\PaymentDto.class
+com\unir\payments\dtos\BookDto$BookDtoBuilder.class
+com\unir\payments\dtos\BookDto.class
+com\unir\payments\PaymentsApplication.class
+com\unir\payments\services\interfaces\IPaymentService.class
+com\unir\payments\adapters\outbound\BookClient.class
+com\unir\payments\repositories\entities\PaymentEntity.class
+com\unir\payments\repositories\PaymentRepository.class
+com\unir\payments\dtos\PaymentDto$PaymentDtoBuilder.class
+com\unir\payments\mappers\PaymentMapper.class
+com\unir\payments\controllers\requests\NewPaymentRequest.class
+com\unir\payments\configurations\BeanConfiguration.class

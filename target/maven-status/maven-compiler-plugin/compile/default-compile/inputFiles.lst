@@ -1,0 +1,12 @@
+D:\UNIR\source\rdp\rdp-spring-api\rdp-payments-service\src\main\java\com\unir\payments\adapters\outbound\BookClient.java
+D:\UNIR\source\rdp\rdp-spring-api\rdp-payments-service\src\main\java\com\unir\payments\configurations\BeanConfiguration.java
+D:\UNIR\source\rdp\rdp-spring-api\rdp-payments-service\src\main\java\com\unir\payments\controllers\PaymentController.java
+D:\UNIR\source\rdp\rdp-spring-api\rdp-payments-service\src\main\java\com\unir\payments\controllers\requests\NewPaymentRequest.java
+D:\UNIR\source\rdp\rdp-spring-api\rdp-payments-service\src\main\java\com\unir\payments\dtos\BookDto.java
+D:\UNIR\source\rdp\rdp-spring-api\rdp-payments-service\src\main\java\com\unir\payments\dtos\PaymentDto.java
+D:\UNIR\source\rdp\rdp-spring-api\rdp-payments-service\src\main\java\com\unir\payments\mappers\PaymentMapper.java
+D:\UNIR\source\rdp\rdp-spring-api\rdp-payments-service\src\main\java\com\unir\payments\PaymentsApplication.java
+D:\UNIR\source\rdp\rdp-spring-api\rdp-payments-service\src\main\java\com\unir\payments\repositories\entities\PaymentEntity.java
+D:\UNIR\source\rdp\rdp-spring-api\rdp-payments-service\src\main\java\com\unir\payments\repositories\PaymentRepository.java
+D:\UNIR\source\rdp\rdp-spring-api\rdp-payments-service\src\main\java\com\unir\payments\services\interfaces\IPaymentService.java
+D:\UNIR\source\rdp\rdp-spring-api\rdp-payments-service\src\main\java\com\unir\payments\services\PaymentService.java
